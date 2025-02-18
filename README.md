@@ -15,7 +15,7 @@ A web application that suggests recipes based on ingredients you already have at
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/recipe-finder.git
+   git clone https://github.com/Nipsil/recipe-finder.git
    ```
 
 2. Navigate to the project directory:
